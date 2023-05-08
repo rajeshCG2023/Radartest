@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Capgemin plat",
+    "ring": "Assess",
+    "quadrant": "AI Futures",
+    "isNew": "TRUE",
+    "description": "<p><strong><a href=\"https://github.com/dragonflydb/dragonfly\">Dragonfly</a></strong> is a new in-memory data store with compatible <a href=\"/radar/platforms/redis\">Redis</a> and Memcached APIs. It leverages the new Linux-specific <a href=\"https://github.com/axboe/liburing\">io_uring</a> API for I/O and implements <a href=\"https://dragonflydb.io/blog/2022/06/23/cache_design/\">novel algorithms and data structures</a> on top of a multithreaded, shared-nothing architecture. Because of these clever choices in implementation, Dragonfly achieves impressive results in performance. Although Redis continues to be our default choice for in-memory data store solutions, we do think Dragonfly is an interesting choice to assess.</p>"
+  },
+
+  {
+    "name": "capgemini tool",
+    "ring": "Trial",
+    "quadrant": "Data Futures",
+    "isNew": "TRUE",
+    "description": "<p>When implementing robust, secure and reliable disaster recovery, it’s necessary to ensure that backups can't be deleted or altered before their expiry, either maliciously or accidentally. Previously, with AWS Backup, these policies and guarantees had to be implemented by hand. Recently, AWS has added the Vault Lock feature to ensure backups are immutable and untamperable. <a href=\"https://docs.aws.amazon.com/aws-backup/latest/devguide/vault-lock.html\"><strong>AWS Backup Vault Lock</strong></a> enforces retention and deletion policies and prevents even those with administrator privileges from altering or deleting backup files. This has proved to be a valuable addition and fills a previously empty space.</p>"
+  },
+  {
+    "name": "capgemini Tech",
+    "ring": "Trial",
+    "quadrant": "Immersive Futures",
+    "isNew": "TRUE",
+    "description": "<p>When implementing robust, secure and reliable disaster recovery, it’s necessary to ensure that backups can't be deleted or altered before their expiry, either maliciously or accidentally. Previously, with AWS Backup, these policies and guarantees had to be implemented by hand. Recently, AWS has added the Vault Lock feature to ensure backups are immutable and untamperable. <a href=\"https://docs.aws.amazon.com/aws-backup/latest/devguide/vault-lock.html\"><strong>AWS Backup Vault Lock</strong></a> enforces retention and deletion policies and prevents even those with administrator privileges from altering or deleting backup files. This has proved to be a valuable addition and fills a previously empty space.</p>"
+  },
+  {
+    "name": "capgemini LF",
+    "ring": "Trial",
+    "quadrant": "Security Futures",
+    "isNew": "TRUE",
+    "description": "<p>When implementing robust, secure and reliable disaster recovery, it’s necessary to ensure that backups can't be deleted or altered before their expiry, either maliciously or accidentally. Previously, with AWS Backup, these policies and guarantees had to be implemented by hand. Recently, AWS has added the Vault Lock feature to ensure backups are immutable and untamperable. <a href=\"https://docs.aws.amazon.com/aws-backup/latest/devguide/vault-lock.html\"><strong>AWS Backup Vault Lock</strong></a> enforces retention and deletion policies and prevents even those with administrator privileges from altering or deleting backup files. This has proved to be a valuable addition and fills a previously empty space.</p>"
+  },
+  {
+    "name": "capgemini CG",
+    "ring": "Trial",
+    "quadrant": "Cloud Futures",
+    "isNew": "TRUE",
+    "description": "<p>When implementing robust, secure and reliable disaster recovery, it’s necessary to ensure that backups can't be deleted or altered before their expiry, either maliciously or accidentally. Previously, with AWS Backup, these policies and guarantees had to be implemented by hand. Recently, AWS has added the Vault Lock feature to ensure backups are immutable and untamperable. <a href=\"https://docs.aws.amazon.com/aws-backup/latest/devguide/vault-lock.html\"><strong>AWS Backup Vault Lock</strong></a> enforces retention and deletion policies and prevents even those with administrator privileges from altering or deleting backup files. This has proved to be a valuable addition and fills a previously empty space.</p>"
+  },
+  {
+    "name": "capgemini AIE",
+    "ring": "Trial",
+    "quadrant": "Connected Futures",
+    "isNew": "TRUE",
+    "description": "<p>When implementing robust, secure and reliable disaster recovery, it’s necessary to ensure that backups can't be deleted or altered before their expiry, either maliciously or accidentally. Previously, with AWS Backup, these policies and guarantees had to be implemented by hand. Recently, AWS has added the Vault Lock feature to ensure backups are immutable and untamperable. <a href=\"https://docs.aws.amazon.com/aws-backup/latest/devguide/vault-lock.html\"><strong>AWS Backup Vault Lock</strong></a> enforces retention and deletion policies and prevents even those with administrator privileges from altering or deleting backup files. This has proved to be a valuable addition and fills a previously empty space.</p>"
+  }
+]
